@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"elementos","l":"Cancion"},{"p":"utilidades","l":"Conexion"},{"p":"utilidades","l":"Correo"},{"p":"utilidades","l":"Ficheros"},{"p":"elementos","l":"Juego"},{"p":"elementos","l":"Libro"},{"p":"utilidades","l":"Usuario"}]
